@@ -1,6 +1,6 @@
 # Awesome-Email-Marketing-Newsletter-Automation
 
-# Top Email Marketing & Newsletter Automation Ecosystem
+## Top Email Marketing & Newsletter Automation Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Campaign Sending, Subscriber Segmentation & Self-Hosted Automation*  
