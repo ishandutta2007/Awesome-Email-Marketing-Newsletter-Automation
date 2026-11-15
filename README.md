@@ -7,7 +7,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Email-Marketing-Newsletter-Automation?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -67,9 +67,9 @@ A breakdown of top hosted commercial platforms, ranked in descending order by en
 
 Self-hosted email marketing platforms and newsletter managers allow organizations to achieve complete data sovereignty, customize compliance boundaries (GDPR, HIPAA), and eliminate per-subscriber subscription penalties.
 
-The projects below are **sorted in descending order by GitHub stargazers count**. Click any star badge to inspect real-time repository stars.
+The projects below are **sorted in descending order by GitHub stargazers count**. Click any Stars_Badge to inspect real-time repository stars.
 
-| Project | ⭐ Stars | ⚙️ Tech Stack / Architecture | 💡 Core Capabilities & Differentiators | 🎯 Best Suited For |
+| Project | ⭐ GitHub_Stars | ⚙️ Tech Stack / Architecture | 💡 Core Capabilities & Differentiators | 🎯 Best Suited For |
 |:---|:---|:---|:---|:---|
 | **[Listmonk](https://github.com/knadh/listmonk)** | [![Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers) | Go, PostgreSQL, Vue.js | Single-binary deployment with negligible memory consumption. Sends millions of messages at high throughput via multiple custom SMTP relays or Amazon SES. Provides SQL-level segmentation queries, analytics, and an HTTP/REST API. | Developers needing a high-speed, lightweight newsletter manager and transactional mailing engine. |
 | **[BillionMail](https://github.com/Billionmail/BillionMail)** | [![Stars](https://img.shields.io/github/stars/Billionmail/BillionMail)](https://github.com/Billionmail/BillionMail/stargazers) | Docker, Go/Node.js, Mailserver stack | All-in-one open-source mail server and email marketing solution. Combines full inbound/outbound mail transfer agent (MTA) server deployment with a modern campaign delivery and newsletter dashboard. | Teams wanting a turnkey self-hosted infrastructure bundling the underlying mail server with campaign tools. |
@@ -111,7 +111,7 @@ We welcome additions, updates, and corrections from the community! 🙌
 2. 🌿 Create a new branch: `git checkout -b update/add-tool-name`.
 3. 📝 Modify `README.md` keeping the established table formats:
    - For **SaaS**: Include product name, estimated enterprise scale/valuation, exact starting tier pricing, and explicit free tier / free trial limits.
-   - For **Open-Source**: Include repository name, star badge linked to stargazers (`style=social&color=white`), architecture stack, core features, and best target persona. Ensure the table maintains descending order by GitHub stars.
+   - For **Open-Source**: Include repository name, Stars_Badge linked to stargazers (`style=social&color=white`), architecture stack, core features, and best target persona. Ensure the table maintains descending order by GitHub_Stars.
 4. 🚀 Open a Pull Request detailing the changes and citing official documentation or financial references.
 
 ---
